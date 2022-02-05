@@ -12,8 +12,7 @@ $(function() {
         $(".language-selected").addClass("change-br");
         //seção
         $("#title").text("Uma Webpage simples com opção de Milti-language");
-        //sobre
-        $(".about-container ul:nth-child(1) li:nth-child(1) a").text("CARTEIRA");
+        
 
     });
 });
@@ -32,13 +31,7 @@ $(function() {
         $(".language-selected").addClass("change-en");
         //section
         $("#title").text("A simple webpage with Milti-language option");
-        //About
-        $(".about-container ul:nth-child(1) li:nth-child(1) a").text("Help Center");
-        $(".about-container ul:nth-child(1) li:nth-child(2) a").text("Ethics Line");
-        $(".about-container ul:nth-child(1) li:nth-child(3) a").text("Payments");
-        $(".about-container ul:nth-child(2) li:nth-child(1) a").text("Support");
-        $(".about-container ul:nth-child(2) li:nth-child(2) a").text("Help Center");
-        $(".about-container ul:nth-child(2) li:nth-child(3) a").text("Terms and Policies");
+        
     });
 });
 
@@ -56,12 +49,6 @@ $(function() {
         $(".language-selected").addClass("change-es");
         //sección
         $("#title").text("Una página web sencilla con la opción de Multi-language");
-        //sobre
-        $(".about-container ul:nth-child(1) li:nth-child(1) a").text("Soluciones");
-        $(".about-container ul:nth-child(1) li:nth-child(2) a").text("Visión General");
-        $(".about-container ul:nth-child(1) li:nth-child(3) a").text("Pagos");
-        $(".about-container ul:nth-child(2) li:nth-child(1) a").text("Soporte");
-        $(".about-container ul:nth-child(2) li:nth-child(2) a").text("Central de Ayuda");
-        $(".about-container ul:nth-child(2) li:nth-child(3) a").text("Términos y Políticas");
+        
     });
 });
